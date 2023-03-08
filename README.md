@@ -8,10 +8,11 @@ class vqea(ReadMe):
         self.username = "slya"
         self.contacts = {
             "Discord": "slya#4184",
-            "tiktok": "@slya"
+            "tiktok": ["@slya", "@dqae"]
         }
         self.aliases = [
             "vqea",
+            "dqae".
             "slya",
             "lv"
         ]
