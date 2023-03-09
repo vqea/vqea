@@ -6,6 +6,7 @@ class vqea(ReadMe):
 
     def __init__(self):
         self.username = "slya"
+        self.description = "dev @ adore, coding since 1/26/23"
         self.contacts = {
             "discord": "slya#4184",
             "tiktok": ["@slya", "@dqae"]
@@ -16,7 +17,6 @@ class vqea(ReadMe):
             "slya",
             "lv"
         ]
-        self.description = "dev @ adore, coding since 1/26/23"
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vqea&style=flat-square&color=faa6ff" />
