@@ -6,7 +6,7 @@ class vqea(ReadMe):
 
     def __init__(self):
         self.username = "vqea"
-        self.description = "dev @ adore, coding since 1/26/23"
+        self.description = "coding since 1/26/23, don't forget tp follow and star :)"
         self.contacts = {
             "discord": "slya#4184",
             "tiktok": ["@slya", "@dqae"]
