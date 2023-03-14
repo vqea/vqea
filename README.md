@@ -5,7 +5,7 @@ class vqea(ReadMe):
     "/vqea/vqea/README.md"
 
     def __init__(self):
-        self.username = "slya"
+        self.username = "vqea"
         self.description = "dev @ adore, coding since 1/26/23"
         self.contacts = {
             "discord": "slya#4184",
