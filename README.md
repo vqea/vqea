@@ -20,4 +20,5 @@ class vqea(ReadMe):
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vqea&style=flat-square&color=faa6ff" />
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
