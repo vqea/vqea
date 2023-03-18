@@ -13,7 +13,7 @@ class vqea(ReadMe):
         }
         self.aliases = [
             "vqea",
-            "dqae".
+            "dqae",
             "slya",
             "lv"
         ]
