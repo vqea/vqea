@@ -23,6 +23,13 @@ class vqea(ReadMe):
   <img src="https://komarev.com/ghpvc/?username=vqea&style=flat-square&color=faa6ff" />
 </p>
 
-<p align="center">
-<img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<details align="center">
+  <summary><h2><b>⭐ Github Stats</b></h2></summary>
+  <p>
+   <img alt="vqea's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vqea&layout=compact&theme=dark" />  
+   <br>
+   <img alt="vqea's github stats" src="https://github-readme-stats.vercel.app/api?username=vqea&show_icons=true&theme=dark" />
+   <br>
+   <img src="https://metrics.lecoq.io/vqea" />
+  </p>
+</details>
